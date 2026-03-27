@@ -138,6 +138,8 @@ Se aplicó **StandardScaler**, ajustado únicamente sobre el conjunto de entrena
 
 Se implementaron pipelines con scikit-learn para integrar preprocesamiento y modelado.
 
+---
+
 ## 5. Modelos y comparación
 
 ### Modelos evaluados
@@ -179,6 +181,8 @@ Detectado por diferencias entre train y test.
 - Buen balance general
 - Robustez ante ruido
 
+---
+
 ## 6. Evaluación final
 
 ### Métricas
@@ -209,6 +213,8 @@ El modelo presenta buen desempeño general, aunque puede mejorarse en la detecci
 - Nuevas características
 - Reducción de dimensionalidad
 - Modelos más avanzados (CNN, LSTM)
+
+---
 
 ## 7. Prueba con muestra artificial
 
